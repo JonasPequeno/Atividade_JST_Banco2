@@ -7,9 +7,6 @@ package com.view;
 
 import com.vividsolutions.jts.geom.Geometry;
 import com.vividsolutions.jts.io.WKTReader;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 /**
  *
  * @author jonaspeuqno

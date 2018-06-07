@@ -7,8 +7,8 @@ import com.view.Tela;
  */
 public class App {
     public static void main(String[] args) {
-        //Tela tela = new Tela();
-        //tela.setVisible(true);
+        Tela tela = new Tela();
+        tela.setVisible(true);
         
     }
 }
